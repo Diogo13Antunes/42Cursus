@@ -55,7 +55,7 @@ I have a keen interest in pursuing a career in software development. Therefore, 
 
 The holy graph is a graphical representation that displays both completed and available projects, making it easier to visualize and select projects.
 
-![holly_graph](https://github.com/dDiogo13Antunes/42Cursus/blob/main/srcs/holly_graph.png)
+![holly_graph](./srcs/holly_graph.png)
 
 ### Project Table
 
