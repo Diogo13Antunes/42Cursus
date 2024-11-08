@@ -61,18 +61,18 @@ The holy graph is a graphical representation that displays both completed and av
 
 | Project Name | Technologies and Skills | Subject | Grade |
 | --- | --- | --- | --- |
-| [Libft](https://github.com/Diogo13Antunes/42Cursus_Libft) | C, Data Structures and Algorithms | [subject](/blob/main/subject.pdf) | 125% |
-| [ft_printf](https://github.com/Diogo13Antunes/42Cursus_Printf) | C, Algorithms, Variadic Functions | [subject](/blob/main/subject.pdf) | 100% |
-| [get_next_line](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line) | C, Algorithms, Files | [subject](/blob/main/subject.pdf) | 125% |
-| [Born2beroot](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot) | System Administration | [subject](/blob/main/subject.pdf) | 110% |
+| [Libft](https://github.com/Diogo13Antunes/42Cursus_Libft) | C, Data Structures and Algorithms | [subject](https://github.com/Diogo13Antunes/42Cursus_Libft/blob/main/subject.pdf) | 125% |
+| [ft_printf](https://github.com/Diogo13Antunes/42Cursus_Printf) | C, Algorithms, Variadic Functions | [subject](https://github.com/Diogo13Antunes/42Cursus_Printf/blob/main/subject.pdf) | 100% |
+| [get_next_line](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line) | C, Algorithms, Files | [subject](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line/blob/main/subject.pdf) | 125% |
+| [Born2beroot](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot) | System Administration | [subject](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot/blob/main/subject.pdf) | 110% |
 | [push_swap] | C, Data Structures and Algorithms | [subject]() | 96% |
 | [mini_talk] | C, Shell, UNIX Operating Systems | [subject]() | 125% |
 | [so_long] | C, 2D Graphics, Games | [subject]() | 125% |
 | [Philosophers] | C, Threads and Mutexes | [subject]() | 100% |
-| [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | [subject](./blob/main/en.subject.pdf) | 95% |
+| [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | [subject](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell/blob/main/en.subject.pdf) | 95% |
 | [CPP_Modules] | C++, Object-oriented programming | subject | 100% |
 | NetPractice | IP routing, System Administration | [subject]([/blob/main/netpractice-subject.pdf](https://cdn.intra.42.fr/pdf/pdf/131822/en.subject.pdf)) | 100% |
-| [cub3d](https://github.com/Diogo13Antunes/42Cursus-Cub3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](/blob/main/en.subject.pdf) | 125% |
-| [Webserv](https://github.com/Diogo13Antunes/42Cursus-webserv) | C++, HTTP, CGI, Web | [subject](/blob/main/en.subject.pdf) | 110% |
-| [Inception](https://github.com/Diogo13Antunes/42Cursus_Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | [subject](./blob/main/subject.pdf) | 100% |
-| [ft_transcendence](https://github.com/Diogo13Antunes/42Cursus-transcendence) | Web Development, HTML, CSS, JavaScript, Python, SQL | [subject](/blob/main/en.subject.pdf) | 110% |
+| [cub3d](https://github.com/Diogo13Antunes/42Cursus-Cub3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](https://github.com/Diogo13Antunes/42Cursus-Cub3D/blob/main/en.subject.pdf) | 125% |
+| [Webserv](https://github.com/Diogo13Antunes/42Cursus-webserv) | C++, HTTP, CGI, Web | [subject](https://github.com/Diogo13Antunes/42Cursus-webserv/blob/main/en.subject.pdf) | 110% |
+| [Inception](https://github.com/Diogo13Antunes/42Cursus_Inception) | System Administration, Docker Compose, Nginx, Wordpress, MariaDB | [subject](https://github.com/Diogo13Antunes/42Cursus_Inception/blob/main/subject.pdf) | 100% |
+| [ft_transcendence](https://github.com/Diogo13Antunes/42Cursus-transcendence) | Web Development, HTML, CSS, JavaScript, Python, SQL | [subject](https://github.com/Diogo13Antunes/42Cursus-transcendence/blob/main/en.subject.pdf) | 110% |
