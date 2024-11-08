@@ -65,7 +65,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [ft_printf](https://github.com/Diogo13Antunes/42Cursus_Printf) | C, Algorithms, Variadic Functions | [subject](https://github.com/Diogo13Antunes/42Cursus_Printf/blob/main/subject.pdf) | 100% |
 | [get_next_line](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line) | C, Algorithms, Files | [subject](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line/blob/main/subject.pdf) | 125% |
 | [Born2beroot](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot) | System Administration | [subject](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot/blob/main/subject.pdf) | 110% |
-| [push_swap] | C, Data Structures and Algorithms | [subject]() | 96% |
+| [push_swap](https://github.com/Diogo13Antunes/42cursus_Push_Swap) | C, Data Structures and Algorithms | [subject](https://github.com/Diogo13Antunes/42cursus_Push_Swap/blob/main/subject.pdf) | 96% |
 | [mini_talk] | C, Shell, UNIX Operating Systems | [subject]() | 125% |
 | [so_long] | C, 2D Graphics, Games | [subject]() | 125% |
 | [Philosophers] | C, Threads and Mutexes | [subject]() | 100% |
