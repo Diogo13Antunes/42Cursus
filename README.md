@@ -70,7 +70,7 @@ The holy graph is a graphical representation that displays both completed and av
 | [so_long](https://github.com/Diogo13Antunes/42Cursus_So_Long) | C, 2D Graphics, Games | [subject](https://github.com/Diogo13Antunes/42Cursus_So_Long/blob/main/subject.pdf) | 125% |
 | [Philosophers](https://github.com/Diogo13Antunes/42Cursus_Philosophers) | C, Threads and Mutexes | [subject](https://github.com/Diogo13Antunes/42Cursus_Philosophers/blob/main/subject.pdf) | 100% |
 | [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | [subject](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell/blob/main/en.subject.pdf) | 95% |
-| [CPP_Modules] | C++, Object-oriented programming | subject | 100% |
+| [CPP_Modules](https://github.com/Diogo13Antunes/42Cursus_CPP_Modules) | C++, Object-oriented programming | subject | 100% |
 | NetPractice | IP routing, System Administration | [subject]([/blob/main/netpractice-subject.pdf](https://cdn.intra.42.fr/pdf/pdf/131822/en.subject.pdf)) | 100% |
 | [cub3d](https://github.com/Diogo13Antunes/42Cursus-Cub3D) | C, Ray Casting, 3D Graphics, Texturing, Games | [subject](https://github.com/Diogo13Antunes/42Cursus-Cub3D/blob/main/en.subject.pdf) | 125% |
 | [Webserv](https://github.com/Diogo13Antunes/42Cursus-webserv) | C++, HTTP, CGI, Web | [subject](https://github.com/Diogo13Antunes/42Cursus-webserv/blob/main/en.subject.pdf) | 110% |
