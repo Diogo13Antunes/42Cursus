@@ -66,9 +66,9 @@ The holy graph is a graphical representation that displays both completed and av
 | [get_next_line](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line) | C, Algorithms, Files | [subject](https://github.com/Diogo13Antunes/42Cursus_Get_Next_Line/blob/main/subject.pdf) | 125% |
 | [Born2beroot](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot) | System Administration | [subject](https://github.com/Diogo13Antunes/42Cursus_Born2BeRoot/blob/main/subject.pdf) | 110% |
 | [push_swap](https://github.com/Diogo13Antunes/42cursus_Push_Swap) | C, Data Structures and Algorithms | [subject](https://github.com/Diogo13Antunes/42cursus_Push_Swap/blob/main/subject.pdf) | 96% |
-| [mini_talk] | C, Shell, UNIX Operating Systems | [subject]() | 125% |
-| [so_long] | C, 2D Graphics, Games | [subject]() | 125% |
-| [Philosophers] | C, Threads and Mutexes | [subject]() | 100% |
+| [mini_talk](https://github.com/Diogo13Antunes/42Cursus_Mini_Talk) | C, Shell, UNIX Operating Systems | [subject](https://github.com/Diogo13Antunes/42Cursus_Mini_Talk/blob/main/subject.pdf) | 125% |
+| [so_long](https://github.com/Diogo13Antunes/42Cursus_So_Long) | C, 2D Graphics, Games | [subject](https://github.com/Diogo13Antunes/42Cursus_So_Long/blob/main/subject.pdf) | 125% |
+| [Philosophers](https://github.com/Diogo13Antunes/42Cursus_Philosophers) | C, Threads and Mutexes | [subject](https://github.com/Diogo13Antunes/42Cursus_Philosophers/blob/main/subject.pdf) | 100% |
 | [minishell](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell) | C, Shell, UNIX Operating Systems | [subject](https://github.com/Diogo13Antunes/42Cursus_Mini_Shell/blob/main/en.subject.pdf) | 95% |
 | [CPP_Modules] | C++, Object-oriented programming | subject | 100% |
 | NetPractice | IP routing, System Administration | [subject]([/blob/main/netpractice-subject.pdf](https://cdn.intra.42.fr/pdf/pdf/131822/en.subject.pdf)) | 100% |
