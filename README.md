@@ -47,7 +47,7 @@ I’m Diogo, born in 2002, and I have a passion for software development and tec
 
 I have a keen interest in pursuing a career in software development. Therefore, I am dedicated to enhancing my skills and knowledge in this particular field.
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/dcandeia?1337Badge=off&UM6P=off" alt="dcandeia's 42 stats" /></a>
+<a href="https://github.com/Diogo13Antunes/42Cursus"><img src="https://badge.mediaplus.ma/darkblue/dcandeia?1337Badge=off&UM6P=off" alt="dcandeia's 42 stats" /></a>
 
 ## Projects
 
